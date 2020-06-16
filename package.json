@@ -1,7 +1,8 @@
 {
 	"name": "spec-tree",
 	"version": "0.0.1",
-	"publisher": "luizlopes",
+  "publisher": "luizlopes",
+  "repository": "https://github.com/luizlopes/rspec-tree",
 	"displayName": "spec-tree",
 	"description": "",
 	"engines": {
